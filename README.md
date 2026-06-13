@@ -5,4 +5,4 @@ Group project developed for the Computer Organization and Assembly Language (COA
 Samiullah(24108332)
 Muhammad Sardar Aryan(24108333)
 Ali Raza(24108433)
-Mujeeb ur Rehman(24108324(
+Mujeeb ur Rehman(24108324
